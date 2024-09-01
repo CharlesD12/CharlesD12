@@ -29,8 +29,8 @@
   </tr>
 </table>
 
-<summary>📃 My Stats</summary>
-
+<br><br>
+## My Stats Summary📃📊
 <!-- Top Languages Card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesd12&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
 
