@@ -156,11 +156,9 @@
 
   <img src="background.gif" width="600" height="300" />
 
-  <h5><i>"Loves code at night 💻🌃"</i></h5>
+  <h5><i>"Enjoys coding at night 💻🌃"</i></h5>
 
 </div>
-
----
 
 <p align="center">
   <!-- GitHub Badge -->
