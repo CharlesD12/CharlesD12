@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **charles.dometian@gmail.com**
 
-- 📄 Know about my experiences **linkedin.com/in/charles-dometian**
+- 📄 Know about my experiences **www.linkedin.com/in/charles-dometian**
 
 <h3 align="left">Connect with me:</h3>
 
