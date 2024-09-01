@@ -121,9 +121,8 @@
   </tr>
 </table>
 
-<img src="![image](https://github.com/user-attachments/assets/9006917e-7cea-46af-8678-438648c19daf)
-" width="400" height="200" align="center" />
-<h5><i>"Loves code at night 💻🌃"</i></h5>
+<img src="https://github.com/user-attachments/assets/9006917e-7cea-46af-8678-438648c19daf" width="400" height="200" align="center" />
+<h5 align="center"><i>"Loves code at night 💻🌃"</i></h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
 
