@@ -7,7 +7,7 @@
 - 📚 I am currently exploring the field of machine learning and data
 
 - 🧑🏻 My Pronoun He/Him
-- 
+
 - 📫 How to reach me **charles.dometian@gmail.com**
 
 - 📄 Know about my experiences **linkedin.com/in/charles-dometian**
