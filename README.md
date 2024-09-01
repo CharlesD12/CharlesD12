@@ -2,7 +2,12 @@
 <h3 align="left">A passionate Machine Learning and Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesd12&label=Profile%20views&color=0e75b6&style=flat" alt="charlesd12" /> </p>
+- 🎓 I am currently studying at Gunadarma University
 
+- 📚 I am currently exploring the field of machine learning and data
+
+- 🧑🏻 My Pronoun He/Him
+  
 - 📫 How to reach me **charles.dometian@gmail.com**
 
 - 📄 Know about my experiences **linkedin.com/in/charles-dometian**
@@ -116,7 +121,8 @@
   </tr>
 </table>
 
-<img src="https://i.pinimg.com/736x/0f/25/96/0f2596c0f776866f1665ae798457f71d.jpg" width="400" height="200" style="display: block; margin: auto;" />
+<img src="![image](https://github.com/user-attachments/assets/9006917e-7cea-46af-8678-438648c19daf)
+" width="400" height="200" align="center" />
 <h5><i>"Loves code at night 💻🌃"</i></h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
