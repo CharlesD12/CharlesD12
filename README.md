@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Charles Dometian ✨</h1>
-<h3 align="center">A passionate Machine Learning and Data Scientist</h3>
+<h1 align="left">Hi 👋, I'm Charles Dometian ✨</h1>
+<h3 align="left">A passionate Machine Learning and Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesd12&label=Profile%20views&color=0e75b6&style=flat" alt="charlesd12" /> </p>
 
@@ -116,7 +116,7 @@
   </tr>
 </table>
 
-<img src="download.jpg"  width=80% height=20%>
+<img src="download.jpg" width="400" height="200" />
 <h5><i>"Loves code at night 💻🌃"</i></h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
