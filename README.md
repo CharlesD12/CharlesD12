@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/charles-dometian" target="_blank">
@@ -142,6 +142,8 @@
   <h5><i>"Loves code at night 💻🌃"</i></h5>
 
 </div>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
 
