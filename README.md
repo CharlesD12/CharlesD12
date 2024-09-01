@@ -116,7 +116,7 @@
   </tr>
 </table>
 
-<img src="download.jpg"  width=60% height=40%>
+<img src="download.jpg"  width=80% height=20%>
 <h5><i>"Loves code at night 💻🌃"</i></h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
