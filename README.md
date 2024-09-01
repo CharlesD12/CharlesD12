@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-<img src="background.gif" width="400" height="200" align="center"/>
+<img src="background.gif" width="400" height="200" style="display: block; margin: auto;"/>
 <h5 align="center"><i>"Loves code at night 💻🌃"</i></h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
