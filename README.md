@@ -146,14 +146,24 @@
 
 ---
 
-<!-- GitHub Badge -->
-[![Github URL](https://img.shields.io/twitter/url?color=24292e&label=CharlesD12&logo=github&style=flat-square&url=https://github.com/CharlesD12)](https://github.com/CharlesD12)
+<!-- Replace placeholders with your actual data -->
 
-<!-- LinkedIn Badge -->
-[![Linkedin URL](https://img.shields.io/twitter/url?color=0072b1&label=<LINKEDIN_NAME>&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/charlesdometian/)](https://www.linkedin.com/in/charlesdometian/)
+<h3 align="left">Connect with me:</h3>
 
-<!-- Email Badge -->
-![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=charlesdometian@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F?to=charlesdometian@gmail.com)
+<p align="center">
+  <!-- GitHub Badge -->
+  <a href="https://github.com/CharlesD12" target="_blank">
+    <img src="https://img.shields.io/twitter/url?color=24292e&label=CharlesD12&logo=github&style=flat-square&url=https://github.com/CharlesD12" alt="GitHub" />
+  </a>
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/charles-dometian/" target="_blank">
+    <img src="https://img.shields.io/twitter/url?color=0072b1&label=charles-dometian&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/charles-dometian/" alt="LinkedIn" />
+  </a>
+  <!-- Email Badge -->
+  <a href="mailto:charles.dometian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/twitter/url?color=ea4335&label=charles.dometian@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F?to=<EMAIL_ADDRESS>" alt="Email" />
+  </a>
+</p>
 
 ---
 
