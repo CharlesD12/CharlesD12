@@ -183,9 +183,3 @@
 </p>
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesd12&show_icons=true&locale=en" alt="charlesd12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesd12&" alt="charlesd12" /></p>
