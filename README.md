@@ -2,15 +2,15 @@
 <h3 align="left">A passionate Machine Learning and Data Scientist🤖📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesd12&label=Profile%20views&color=0e75b6&style=flat" alt="charlesd12" /> </p>
-- 🎓 I am currently studying at Gunadarma University
+🎓 I am currently studying at Gunadarma University
 
-- 📚 I am currently exploring the field of machine learning and data
+📚 I am currently exploring the field of machine learning and data
 
-- 🧑🏻 My Pronoun He/Him
+🧑🏻 My Pronoun He/Him
   
-- 📫 How to reach me **charles.dometian@gmail.com**
+📫 How to reach me **charles.dometian@gmail.com**
 
-- 📄 Know about my experiences **www.linkedin.com/in/charles-dometian**
+📄 Know about my experiences **www.linkedin.com/in/charles-dometian**
 
 <h3 align="left">Connect with me:</h3>
 
