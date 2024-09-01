@@ -13,10 +13,21 @@
 - 📄 Know about my experiences **linkedin.com/in/charles-dometian**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/charles-dometian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/charles-dometian" height="30" width="40" /></a>
-<a href="https://kaggle.com/charles dometian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="charles dometian" height="30" width="40" /></a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/charles-dometian" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/charles-dometian" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## My favorite tools and technologies ⚙️ 
 
@@ -122,6 +133,9 @@
 </table>
 
 <div align="center">
+
+---
+
 
   <img src="background.gif" width="600" height="300" />
 
