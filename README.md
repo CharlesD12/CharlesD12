@@ -161,7 +161,7 @@
   </a>
   <!-- Email Badge -->
   <a href="mailto:charles.dometian@gmail.com" target="_blank">
-    <img src="https://img.shields.io/twitter/url?color=ea4335&label=charles.dometian@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F?to=<EMAIL_ADDRESS>" alt="Email" />
+    <img src="https://img.shields.io/twitter/url?color=ea4335&label=charles.dometian@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F?to=charles.dometian@gmail.com" alt="Email" />
   </a>
 </p>
 
