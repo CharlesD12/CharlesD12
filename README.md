@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Charles Dometian ✨</h1>
-<h3 align="left">A passionate Machine Learning and Data Scientist</h3>
+<h3 align="left">A passionate Machine Learning and Data Scientist🤖📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesd12&label=Profile%20views&color=0e75b6&style=flat" alt="charlesd12" /> </p>
 - 🎓 I am currently studying at Gunadarma University
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-  <img src="background.gif" width="400" height="200" />
+  <img src="background.gif" width="800" height="400" />
 
   <h5><i>"Loves code at night 💻🌃"</i></h5>
 
