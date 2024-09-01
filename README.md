@@ -146,6 +146,17 @@
 
 ---
 
+<!-- GitHub Badge -->
+[![Github URL](https://img.shields.io/twitter/url?color=24292e&label=CharlesD12&logo=github&style=flat-square&url=https://github.com/<GITHUB_USERNAME>)](https://github.com/CharlesD12)
+
+<!-- LinkedIn Badge -->
+[![Linkedin URL](https://img.shields.io/twitter/url?color=0072b1&label=<LINKEDIN_NAME>&logo=linkedin&style=flat-square&url=https://www.linkedin.com/in/<LINKEDIN_USERNAME>/)](https://www.linkedin.com/in/charlesdometian/)
+
+<!-- Email Badge -->
+![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=charlesdometian@gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F?to=charlesdometian@gmail.com)
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesd12&show_icons=true&locale=en" alt="charlesd12" /></p>
