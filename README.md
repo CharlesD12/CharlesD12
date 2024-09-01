@@ -46,7 +46,6 @@
 <!-- Activity Graph -->
 ![](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
 
-<br><br>
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
@@ -163,10 +162,6 @@
 
 ---
 
-<!-- Replace placeholders with your actual data -->
-
-<h3 align="left">Connect with me:</h3>
-
 <p align="center">
   <!-- GitHub Badge -->
   <a href="https://github.com/CharlesD12" target="_blank">
@@ -182,4 +177,3 @@
   </a>
 </p>
 
----
