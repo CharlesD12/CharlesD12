@@ -29,8 +29,6 @@
   </tr>
 </table>
 
-<details>
-
 <summary>📃 My Stats</summary>
 
 <!-- Top Languages Card -->
@@ -47,8 +45,6 @@
 
 <!-- Activity Graph -->
 ![](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
-
-</details>
 
 <br><br>
 ## My favorite tools and technologies ⚙️ 
