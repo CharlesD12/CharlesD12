@@ -29,6 +29,27 @@
   </tr>
 </table>
 
+<details>
+
+<summary>📃 My Stats</summary>
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesd12&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
+
+<!-- Stats and Streaks Cards -->
+<p style="display:flex; justify-content: space-between;">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=charlesd12&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&border_color=0d1117" width="49%">
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesd12&theme=tokyonight&background=0d1117" width="49%">
+
+ </p>
+
+<!-- Activity Graph -->
+![](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
+
+</details>
+
 <br><br>
 ## My favorite tools and technologies ⚙️ 
 
