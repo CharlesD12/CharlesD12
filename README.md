@@ -123,7 +123,7 @@
 
 <div align="center">
 
-  <img src="background.gif" width="800" height="400" />
+  <img src="background.gif" width="600" height="300" />
 
   <h5><i>"Loves code at night 💻🌃"</i></h5>
 
