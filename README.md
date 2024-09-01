@@ -121,8 +121,26 @@
   </tr>
 </table>
 
-<img src="background.gif" width="400" height="200" style="display: block; margin: auto;"/>
-<h5 align="center"><i>"Loves code at night 💻🌃"</i></h5>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .centered-container {
+      text-align: center;
+    }
+    .centered-img {
+      display: block;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="centered-container">
+    <img src="background.gif" width="400" height="200" class="centered-img" />
+    <h5><i>"Loves code at night 💻🌃"</i></h5>
+  </div>
+</body>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
 
