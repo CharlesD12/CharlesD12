@@ -116,7 +116,8 @@
   </tr>
 </table>
 
-<img src="download.jpg" width="400" height="200" />
+<img src="![image](https://github.com/user-attachments/assets/491a66c0-cef2-41a2-bf40-9f2d5ade8cfc)
+" width="400" height="200" />
 <h5><i>"Loves code at night 💻🌃"</i></h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesd12&show_icons=true&locale=en&layout=compact" alt="charlesd12" /></p>
