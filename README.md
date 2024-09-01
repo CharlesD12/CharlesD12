@@ -156,7 +156,7 @@
 
   <img src="background.gif" width="600" height="300" />
 
-  <h5><i>"Enjoys coding at night 💻🌃"</i></h5>
+  <h5>"Enjoys coding at night 💻🌃"</h5>
 
 </div>
 
