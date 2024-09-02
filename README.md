@@ -34,9 +34,6 @@
 <br><br><br>
 ## My Stats Summary📃📊
 
-# Welcome to My GitHub Profile!
-
-## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesd12&layout=compact&theme=dark&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
 
 <!-- Stats and Streaks Cards -->
@@ -46,7 +43,6 @@
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesd12&theme=dark&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&border_color=0d1117" width="49%">
 
-## Activity Graph
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
 
 </p>
