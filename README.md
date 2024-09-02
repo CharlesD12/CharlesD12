@@ -1,4 +1,4 @@
-![logo](https://github.com/CharlesD12/CharlesD12/blob/main/dashboard.jpg)
+![logo](https://github.com/CharlesD12/CharlesD12/blob/main/Dashboard.jpg)
 <h1 align="left">Hi 👋, I'm Charles Dometian ✨</h1>
 <h3 align="left">A passionate Machine Learning and Data Scientist🤖📊</h3>
 
