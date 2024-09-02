@@ -41,7 +41,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=charlesd12&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&border_color=0d1117" width="49%">
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesd12&theme=tokyonight&background=0d1117" width="49%">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesd12&theme=gotham" width="49%">
 
  </p>
 
