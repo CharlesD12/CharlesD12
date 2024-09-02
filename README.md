@@ -46,7 +46,7 @@
  </p>
 
 <!-- Activity Graph -->
-![](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
 
 ## My favorite tools and technologies ⚙️ 
 
