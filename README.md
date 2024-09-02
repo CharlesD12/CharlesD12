@@ -1,3 +1,4 @@
+![logo](https://github.com/CharlesD12/CharlesD12/blob/main/Blue%20Modern%20and%20Minimal%20Service%20Business%20Twitter%20Header.jpg)
 <h1 align="left">Hi 👋, I'm Charles Dometian ✨</h1>
 <h3 align="left">A passionate Machine Learning and Data Scientist🤖📊</h3>
 
