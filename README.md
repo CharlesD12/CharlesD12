@@ -46,16 +46,10 @@
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesd12&theme=dark&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&border_color=0d1117" width="49%">
 
-</p>
-
 ## Activity Graph
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
 
 </p>
-
-## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=charlesd12&theme=gotham)
-
 
 ## My favorite tools and technologies ⚙️ 
 
