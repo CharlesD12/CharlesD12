@@ -14,7 +14,7 @@
 
 📄 Know about my experiences **www.linkedin.com/in/charles-dometian**
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Connect with me 🔗 :</h3>
 
 <table align="left">
   <tr>
